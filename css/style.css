@@ -892,8 +892,8 @@ a.article-title:hover {
   border-bottom: none;
   padding: 10px;
 }
-.article-entry th,
-.article-entry td {
+.article-entry table th,
+.article-entry table td {
   text-align: center;
 }
 .article-entry blockquote {
